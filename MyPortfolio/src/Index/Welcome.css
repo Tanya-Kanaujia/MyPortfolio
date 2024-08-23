@@ -1,0 +1,21 @@
+.text {
+  margin-top: 180px;
+  line-height: 5rem;
+  text-align: center;
+  font-family: cursive;
+  font-size: xx-large;
+  color: #0B60B0;
+}
+p {
+  font-size: small;
+}
+b {
+  color: #0c134f;
+}
+.home-btn {
+  background-color: #0C134F;
+  color: white;
+  border-radius: 25px;
+  padding: 1rem 2rem 1rem 2rem;
+  border: none;
+}

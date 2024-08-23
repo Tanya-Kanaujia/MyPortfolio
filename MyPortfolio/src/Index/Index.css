@@ -1,0 +1,59 @@
+/* NavBar */
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.navbar-container {
+  height: 70px;
+  width: 100%;
+  background-color: whitesmoke;
+  color: #070F2B;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#title {
+  color: #0B60B0;
+  text-decoration: none;
+}
+#title:hover {
+  opacity: 0.6;
+}
+.home {
+  color: #0C134F;
+  text-decoration: none;
+}
+.home:hover {
+  opacity: 0.6;
+}
+.projects {
+  color:  #0C134F;
+  text-decoration: none;
+}
+.projects:hover {
+  opacity: 0.6;
+}
+.skills {
+  color: #0C134F;
+  text-decoration: none;
+}
+.skills:hover {
+  opacity: 0.6;
+}
+.hobbies {
+  color: #0C134F;
+  text-decoration: none;
+}
+.hobbies:hover {
+  opacity: 0.6;
+}
+.achievement {
+  color: #0C134F;
+  text-decoration: none;
+}
+.achievement:hover {
+  opacity: 0.6;
+}

@@ -1,0 +1,42 @@
+
+.contactPage {
+  display: flex;
+  justify-content: space-around;
+  background: #fff;
+  align-items: center;
+}
+#Email {
+  width: 35ch;
+  height: 5ch;
+  padding: 3px;
+  border-radius: 25px;
+  border: 1px solid #0C134F;
+  text-align: center;
+}
+#Msg {
+  width: 35ch;
+  height: 5ch;
+  padding: 3px;
+  border-radius: 25px;
+  border: 1px solid #0C134F;
+  text-align: center;
+}
+#Name {
+  width: 35ch;
+  height: 5ch;
+  border-radius: 25px;
+  border: 1px solid #0C134F;
+  text-align: center;
+}
+.btn {
+  background: #0B60B0;
+  color: white;
+  border-radius: 25px;
+  padding: 1rem 1.5rem 1rem 1.5rem;
+  border: none;
+}
+.btn:hover {
+  opacity: 0.7;
+  transform: scale(1);
+  transform: scale(0.8);
+}
