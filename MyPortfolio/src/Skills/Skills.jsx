@@ -21,7 +21,6 @@ import "./Skills.css";
 function Skills() {
 	return (
 		<>
-			<hr />
 			<h2>Fronted</h2>
 			<div className='card'>
 				<img
