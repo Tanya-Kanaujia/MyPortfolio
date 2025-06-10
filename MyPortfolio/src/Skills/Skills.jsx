@@ -83,15 +83,10 @@ function Skills() {
 				/>
 			</div>
 			<hr />
-			<h2>Others</h2>
+			<h2>Programming Languages</h2>
 			<div>
 				<img
-					src={c}
-					alt='img'
-					className='cardImg'
-				/>
-				<img
-					src={cpp}
+					src={java}
 					alt='img'
 					className='cardImg'
 				/>
