@@ -56,11 +56,11 @@ function Content() {
 					</div>
 				</div>
 
-				<img
+				{/* <img
 					src={img}
 					alt='heroImg'
 					className='heroImg'
-				/>
+				/> */}
 			</div>
 		</>
 	);

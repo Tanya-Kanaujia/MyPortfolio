@@ -3,10 +3,6 @@
 import React from "react";
 import "../App.css";
 import "./Projects.css";
-import proImg1 from "../assets/airbnb.jpg";
-import proImg2 from "../assets/Simon Says Game.jpg";
-import proImg3 from "../assets/tech.jpg";
-
 function Projects() {
 	return (
 		<>
@@ -15,7 +11,13 @@ function Projects() {
 			<br />
 			<ul>
 				<li>
-					<b>Zoom Clone</b>
+					<b>
+						<a
+							href='https://globetrekker.onrender.com'
+							className='black'>
+							GlobeTrekker
+						</a>
+					</b>
 				</li>
 				<br />
 				<div className='container'>
